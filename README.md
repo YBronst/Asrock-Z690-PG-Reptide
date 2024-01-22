@@ -12,7 +12,7 @@ Attention! If you have RX5700 (XT) graphics card, you have to use the nameframe 
 * SSD: WD_BLACK SN850X 1000GB NVME M2 (PCI-e 4.0) - Windows 11
 * SSD: Samsung 860 EVO 500GB (SATA-6 AHCI) - macOS Ventura 13.6.3
 * WIFI / BT: BCM94360 FENVI FV-HB1200 AC PCI-E adapter
-* BIOS: [v16.01](https://pg.asrock.com/mb/Intel/Z690%20PG%20Riptide/index.ru.asp#BIOS)
+* BIOS: [v17.03](https://pg.asrock.com/mb/Intel/Z690%20PG%20Riptide/index.ru.asp#BIOS)
 * Display: ViewSonic VX3211-4K-mhd 60 Hz HDR via Display Port
 
 ### BIOS setup: 
