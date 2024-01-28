@@ -10,7 +10,7 @@ Attention! If you have RX5700 (XT) graphics card, you have to use the nameframe 
 * GPU: Radeon Sapphire Nitro+ RX5700XT 8G GDDR6 SE [More info](https://www.sapphiretech.com/ru-ru/consumer/nitro-radeon-rx-5700-xt-se-8g-gddr6)
 * SSD: WD_BLACK SN850X 1000GB NVME M2 (PCI-e 4.0) - macOS Sonoma 14.3
 * SSD: WD_BLACK SN850X 1000GB NVME M2 (PCI-e 4.0) - Windows 11
-* SSD: Samsung 860 EVO 500GB (SATA-6 AHCI) - macOS Ventura 13.6.3
+* SSD: Samsung 860 EVO 500GB (SATA-6 AHCI) - macOS Ventura 13.6.4
 * WIFI / BT: BCM94360 FENVI FV-HB1200 AC PCI-E adapter
 * BIOS: [v17.03 2024/1/15 10.78MB](https://pg.asrock.com/mb/Intel/Z690%20PG%20Riptide/index.ru.asp#BIOS)
 * 1. Patch UEFI LogoFail vulnerabilities.
