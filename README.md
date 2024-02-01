@@ -11,7 +11,7 @@ Attention! If you have RX5700 (XT) graphics card, you have to use the nameframe 
 * SSD: WD_BLACK SN850X 1000GB NVME M2 (PCI-e 4.0) - macOS Sonoma 14.3
 * SSD: WD_BLACK SN850X 1000GB NVME M2 (PCI-e 4.0) - Windows 11
 * SSD: Samsung 860 EVO 500GB (SATA-6 AHCI) - macOS Ventura 13.6.4
-* WIFI / BT: FENVI FV-HB1200 AC PCI-E adapter [More info](BCM94360CS2 Bluetooth-compatible4.0, 802.11AC https://fenvi.com/product_detail_32.html) 
+* WIFI / BT: FENVI FV-HB1200 AC PCI-E BCM94360CS2 Bluetooth-compatible4.0, 802.11AC adapter [More info](https://fenvi.com/product_detail_32.html) 
 * BIOS: [v17.03 2024/1/15 10.78MB](https://pg.asrock.com/mb/Intel/Z690%20PG%20Riptide/index.ru.asp#BIOS)
 * 1. Patch UEFI LogoFail vulnerabilities.
 * 2. Optimize processor settings.
