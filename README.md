@@ -13,10 +13,7 @@ Attention! If you have RX5700 (XT) graphics card, you have to use the nameframe 
 * SSD: Samsung 860 EVO 500GB (SATA-6 AHCI) - macOS Ventura 13.7.2
 * WIFI / BT: BCM94360 FENVI FV-HB1200 AC PCI-E adapter
 * BIOS: [v20.02 2024/10/7 10.72MB](https://pg.asrock.com/mb/Intel/Z690%20PG%20Riptide/index.ru.asp#BIOS)
-* 1. Patch UEFI LogoFail vulnerabilities.
-* 2. Optimize processor settings.
-* 3. Optimize BIOS settings.
-* Display: ViewSonic VX3211-4K-mhd 60 Hz HDR via Display Port
+* Update CPU microcode to 0x12B.
 
 ### BIOS setup: 
 
