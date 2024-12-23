@@ -8,11 +8,11 @@ Attention! If you have RX5700 (XT) graphics card, you have to use the nameframe 
 * MB: Asrock Z690 PG Reptide [More info](https://pg.asrock.com/mb/Intel/Z690%20PG%20Riptide/index.ru.asp#Overview) 
 * RAM: 2x32Gb DDR4 3200 Crucial Technology      
 * GPU: Radeon Sapphire Nitro+ RX5700XT 8G GDDR6 SE [More info](https://www.sapphiretech.com/ru-ru/consumer/nitro-radeon-rx-5700-xt-se-8g-gddr6)
-* SSD: WD_BLACK SN850X 1000GB NVME M2 (PCI-e 4.0) - macOS Sonoma 14.3
+* SSD: WD_BLACK SN850X 1000GB NVME M2 (PCI-e 4.0) - macOS Sequoia 15.2
 * SSD: WD_BLACK SN850X 1000GB NVME M2 (PCI-e 4.0) - Windows 11
-* SSD: Samsung 860 EVO 500GB (SATA-6 AHCI) - macOS Ventura 13.6.4
-* WIFI / BT: FENVI FV-HB1200 AC PCI-E BCM94360CS2 Bluetooth-compatible4.0, 802.11AC adapter [More info](https://fenvi.com/product_detail_32.html) 
-* BIOS: [v17.03 2024/1/15 10.78MB](https://pg.asrock.com/mb/Intel/Z690%20PG%20Riptide/index.ru.asp#BIOS)
+* SSD: Samsung 860 EVO 500GB (SATA-6 AHCI) - macOS Ventura 13.7.2
+* WIFI / BT: BCM94360 FENVI FV-HB1200 AC PCI-E adapter
+* BIOS: [v20.02 2024/10/7 10.72MB](https://pg.asrock.com/mb/Intel/Z690%20PG%20Riptide/index.ru.asp#BIOS)
 * 1. Patch UEFI LogoFail vulnerabilities.
 * 2. Optimize processor settings.
 * 3. Optimize BIOS settings.
@@ -22,8 +22,8 @@ Attention! If you have RX5700 (XT) graphics card, you have to use the nameframe 
 
 * Default
 
-### Mac OS Monterey and Ventura EFI OpenCore loader 0.9.8 and Clover 5157
-### Mac OS Sonoma with EFI OpenCore loader 0.9.8 and Clover 5157 + legacy Broadcom WiFi + OCLP patch 1.3.0
+### Mac OS Sequoia and Ventura EFI OpenCore loader 1.0.3 and Clover 5161
+### Mac OS Sequoia with EFI OpenCore loader 1.0.3 and Clover 5161 + legacy Broadcom WiFi + OCLP patch 2.2.0
 
 FileVault2 not working in Sonoma with the OCLP patch!
  
