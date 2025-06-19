@@ -20,7 +20,7 @@ Attention! If you have RX5700 (XT) graphics card, you have to use the nameframe 
 * Default
 
 ### Mac OS Sequoia and Ventura EFI OpenCore loader 1.0.4 and Clover 5161
-### Mac OS Sequoia with EFI OpenCore loader 1.0.4 and Clover 5161 + legacy Broadcom WiFi + OCLP patch 2.4.0
+### Mac OS Sequoia with EFI OpenCore loader 1.0.4 and Clover 5162 + legacy Broadcom WiFi + OCLP patch 2.4.0
 
 The MacPro-Clover-5161-Z690PG-R-12700kf is backward compatible with macOS Sonoma 14 (Just move the kexts from folder 15 to folder 14) and macOS Ventura 13 (To do this, simply rename configVentura.plist to config.plist). 
 
