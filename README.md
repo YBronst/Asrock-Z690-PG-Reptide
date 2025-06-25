@@ -24,7 +24,8 @@ Attention! If you have RX5700 (XT) graphics card, you have to use the nameframe 
 
 With these EFIs, macOS Tahoe 26 also works. But until there no OCLP patch - Broadcom WiFi does not work.
 
-The MacPro-Clover-5162-Z690PG-R-12700kf-Sequoia is backward compatible with macOS Sonoma 14 (Just move the kexts from folder 15 to folder 14) and macOS Ventura 13 (To do this, simply rename config-vent.plist to config.plist). 
+The MacPro-Clover-5162-Z690PG-R-12700kf-Sequoia is backward compatible with macOS Sonoma 14 (Just move the kexts from folder 15 to folder 14).
+The MacPro-Clover-5162-Z690PG-R-12700kf-Ventura for macOS Ventura 13 only. 
 
 FileVault2 not working in Sonoma with the OCLP patch!
  
