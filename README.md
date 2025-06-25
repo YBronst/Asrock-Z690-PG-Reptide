@@ -24,6 +24,7 @@ Attention! If you have RX5700 (XT) graphics card, you have to use the nameframe 
 
 With these EFIs, macOS Tahoe 26 also works. But until there no OCLP patch - Broadcom WiFi does not work.
 
+The MacPro-OpenCore-1.0.5-Z690PG-R-12700kf fully compatible with macOS Ventura 13,macOS Sonoma 14 and macOS Sequoia 15.
 The MacPro-Clover-5162-Z690PG-R-12700kf-Sequoia is backward compatible with macOS Sonoma 14 (Just move the kexts from folder 15 to folder 14).
 The MacPro-Clover-5162-Z690PG-R-12700kf-Ventura for macOS Ventura 13 only. 
 
