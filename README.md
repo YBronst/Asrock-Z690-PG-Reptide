@@ -28,7 +28,7 @@ The MacPro-Clover-5162-Z690PG-R-12700kf-Ventura for macOS Ventura 13 only.
 
 FileVault2 not working in Sonoma with the OCLP patch!
  
-* All mac os futures are working including DRM playback and sleep/wake S3 and FileVault2 in macOS Ventura 13.
+* All mac os futures are working including DRM playback and sleep/wake S3 and FileVault2 in macOS Ventura 13.x.x versions.
 * Clover has issue with update under T2 mac models
 
 * Before use, you need to generate your own MLB and SMBIOS data using a Py script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist [More info](https://github.com/corpnewt/GenSMBIOS)
