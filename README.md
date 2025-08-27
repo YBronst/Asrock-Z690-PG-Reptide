@@ -32,3 +32,4 @@ FileVault2 not working in Sonoma with the OCLP patch!
 * Clover has issue with update under T2 mac models
 
 * Before use, you need to generate your own MLB and SMBIOS data using a Py script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist [More info](https://github.com/corpnewt/GenSMBIOS)
+* To make Clover loader from sources yourself, use my buildme script file (constantly updated) at your own risk.
