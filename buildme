@@ -129,7 +129,7 @@ if [[ "$SYSNAME" == Darwin ]]; then
       cd "${CLOVERROOT}"
       ./build_gcc15.sh
     else
-    MYTOOLCHAIN=="XCODE$(defaults read /Applications/Xcode.app/Contents/version.plist CFBundleShortVersionString | cut -d. -f1)"
+    MYTOOLCHAIN="XCODE$(defaults read /Applications/Xcode.app/Contents/version.plist CFBundleShortVersionString | cut -d. -f1)"
     fi
   fi
 else
