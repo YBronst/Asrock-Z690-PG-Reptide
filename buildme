@@ -1,8 +1,7 @@
 #!/bin/bash
 
 # created by vector sigma on July 15 2019
-# modified by LAbyOne on My 2021
-# modified by YBronst on Aug 2025
+# modified by LAbyOne on My 2021 and by YBronst on Aug 2025
 # github version
 
 # Linux users should be able to use this wrapper, although the following are needed:
@@ -86,7 +85,7 @@ fi
 
 checkGETTEXT() {
 exportPaths
-locations=($(which msgmerge))
+local locations=($(which msgmerge))
 if [ "${#locations[@]}" -eq 0 ]; then
   export GETTEXT_PREFIX="${TOOLCHAIN_DIR}"
   "${CLOVERROOT}"/buildgettext.sh
@@ -99,7 +98,7 @@ fi
 
 exportPaths() {
 if [[ "$SYSNAME" == Linux ]]; then
-  TOOLCHAIN_DIR=${TOOLCHAIN_DIR:-/usr}
+local TOOLCHAIN_DIR=${TOOLCHAIN_DIR:-/usr}
 elif [[ "$SYSNAME" == Darwin ]]; then
   pathmunge "$(xcode-select --print-path)"/usr/bin
   if [[ -d ~/src/opt/local ]]; then
@@ -286,7 +285,7 @@ buildClover() {
     echo "Running custom build script"
     "${DIR_TOOLS}"/Scripts/build.sh "${CLOVERROOT}" $MYTOOLCHAIN
   else
-    parameter=${1:-none}
+   local parameter=${1:-none}
     if [[ "${parameter}" == HFSPlus ]]; then
       ./ebuild.sh -fr -D NO_GRUB_DRIVERS_EMBEDDED -D USE_APPLE_HFSPLUS_DRIVER -t $MYTOOLCHAIN
     else
@@ -403,7 +402,7 @@ fi
 }
 
 buildApp() {
-withClover=${1-"none"}
+local withClover=${1-"none"}
 if [[ "$SYSNAME" == Darwin ]]; then
   if [[ -f "${CLOVERROOT}"/CloverPackage/CloverV2/EFI/CLOVER/CLOVERX64.efi ]]; then
     rm -f "${CLOVERROOT}"/CloverPackage/sym/.withV2
