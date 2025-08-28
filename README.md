@@ -33,14 +33,10 @@ FileVault2 not working in Sonoma with the OCLP patch!
 
 * Before use, you need to generate your own MLB and SMBIOS data using a Py script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist [More info](https://github.com/corpnewt/GenSMBIOS)
 * To make Clover loader from sources yourself, use my buildme or simplified script file (constantly updated) at your own risk.
-* To use these scripts, place them in your Clover source folder and agree to replace the existing.
-* Then open a terminal, go to this folder and enter the command:
-* xattr -rc buildme
-* xattr -rc xbuildme
-* chmod +x buildme
-* chmod +x xbuildme
+* To use these scripts:
+* 1. Download the archive you need.
+* 2. Open the terminal, enter the command: xattr -rc and drop the downloaded file into the terminal window.
+* 3. Unzip the archive if it was not unzipped during the download process and copy the file to the root directory of Clover.
 * Then run one of them then run one of them using the command:
-* ./buildme
-* Or
-* ./xbuildme
+* That's it, you can use it as before: ./buildme or ./xbuildme 😉
 
