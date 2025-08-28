@@ -36,11 +36,13 @@ FileVault2 not working in Sonoma with the OCLP patch!
 * Much has been updated, absolute paths have been replaced with relative ones. Now Clover can be compiled from any user folder.
 * Added loading of utilities to the download folder instead of the desktop. Replaced the no longer available PlistEDPlus with Xplist Open source.
 * Reworked interface color selection elements. Much that was unnecessary was dropped. What I think is necessary has been added.
-
+* ebuildme the same as buildme, only with English comments.
+* xbuildme very old version.
+  
 * To use these scripts:
 * 1. Download the archive you need.
 * 2. Open the terminal, enter the command: xattr -rc and drop the downloaded file into the terminal window.
 * 3. Unzip the archive if it was not unzipped during the download process and copy the file to the root directory of Clover.
 * Then run one of them then run one of them using the command:
-* That's it, you can use it as before: ./buildme or ./xbuildme 😉
+* That's it, you can use it as before: ./buildme (./ebuildme) or ./xbuildme 😉
 
