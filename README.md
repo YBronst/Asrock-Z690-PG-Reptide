@@ -33,6 +33,10 @@ FileVault2 not working in Sonoma with the OCLP patch!
 
 * Before use, you need to generate your own MLB and SMBIOS data using a Py script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist [More info](https://github.com/corpnewt/GenSMBIOS)
 * To make Clover loader from sources yourself, use my buildme or simplified script file (constantly updated) at your own risk.
+* Much has been updated, absolute paths have been replaced with relative ones. Now Clover can be compiled from any user folder.
+* Added loading of utilities to the download folder instead of the desktop. Replaced the no longer available PlistEDPlus with Xplist Open source.
+* Reworked interface color selection elements. Much that was unnecessary was dropped. What I think is necessary has been added.
+
 * To use these scripts:
 * 1. Download the archive you need.
 * 2. Open the terminal, enter the command: xattr -rc and drop the downloaded file into the terminal window.
