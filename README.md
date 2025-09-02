@@ -34,4 +34,4 @@ FileVault2 not working in Sonoma with the OCLP patch!
 * Before use, you need to generate your own MLB and SMBIOS data using a Py script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist [More info](https://github.com/corpnewt/GenSMBIOS)
 
 * Maybe this will work in Tahoe too.
-* To try it, put the folder 26 to the appropriate folder by the file package The MacPro-Clover-5163-Z690PG-R-12700kf-Sequoia
+* To try it, put the content folder 26 to the appropriate folder EFI on ESP
