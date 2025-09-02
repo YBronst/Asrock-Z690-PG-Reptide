@@ -35,3 +35,5 @@ FileVault2 not working in Sonoma with the OCLP patch!
 
 * Maybe this will work in Tahoe too.
 * To try it, put the content folder 26 to the appropriate folder EFI on ESP
+* Fenvi Wi-Fi: There is no solution yet, although OCLP developers are working on it.
+* An Intel Wi-Fi can be used successfully instead (I've tested the AX210) but AirportItlwm.kext doesn't work in Tahoe and you must use itlwm.kext + Heliport app (latest versions of both).
