@@ -20,14 +20,14 @@ Attention! If you have RX5700 (XT) graphics card, you have to use the nameframe 
 
 * Default
 
-### Mac OS Sequoia and Ventura EFI OpenCore loader 1.0.6 and Clover 5163
+### Mac OS Sequoia and Ventura EFI OpenCore loader 1.0.7 and Clover 5164
 
 - The MacPro-OpenCore-1.0.7-Z690PG-R-12700kf-Tahoe.zip Partualy compatible with macOS Tahoe (Wi-Fi doesn't work)
 - The MacPro-OpenCore-1.0.7-Z690PG-R-12700kf-Sequoia.zip fully compatible with macOS Ventura, macOS Sonoma and macOS Sequoia.
 - The MacPro-Clover-5164-Z690PG-R-12700kf-Sequoia.zip is backward compatible with macOS Sonoma (Just move the kexts from folder 15 to folder 14).
 - The MacPro-Clover-5164-Z690PG-R-12700kf-Ventura.zip for macOS Ventura only. 
 
-* FileVault2 not working in Sonoma with the OCLP patch!
+* FileVault2 not working in Sonoma and Sequoia with the OCLP patch!
  
 * All mac os futures are working including DRM playback and sleep/wake S3 and FileVault2 in macOS Ventura 13.x.x versions.
 * Clover has issue with update under T2 mac models
