@@ -22,10 +22,10 @@ Attention! If you have RX5700 (XT) graphics card, you have to use the nameframe 
 
 ### Mac OS Sequoia and Ventura EFI OpenCore loader 1.0.6 and Clover 5163
 
-- The MacPro-OpenCore-1.0.7-Z690PG-R-12700kf-Tahoe.zip Partualy compatible with macOS 26 Tahoe (Wi-Fi doesn't work)
-- The MacPro-OpenCore-1.0.7-Z690PG-R-12700kf-Sequoia.zip fully compatible with macOS Ventura 13, macOS Sonoma 14 and macOS Sequoia 15.
-- The MacPro-Clover-5164-Z690PG-R-12700kf-Sequoia.zip is backward compatible with macOS Sonoma 14 (Just move the kexts from folder 15 to folder 14).
-- The MacPro-Clover-5164-Z690PG-R-12700kf-Ventura.zip for macOS Ventura 13 only. 
+- The MacPro-OpenCore-1.0.7-Z690PG-R-12700kf-Tahoe.zip Partualy compatible with macOS Tahoe (Wi-Fi doesn't work)
+- The MacPro-OpenCore-1.0.7-Z690PG-R-12700kf-Sequoia.zip fully compatible with macOS Ventura, macOS Sonoma and macOS Sequoia.
+- The MacPro-Clover-5164-Z690PG-R-12700kf-Sequoia.zip is backward compatible with macOS Sonoma (Just move the kexts from folder 15 to folder 14).
+- The MacPro-Clover-5164-Z690PG-R-12700kf-Ventura.zip for macOS Ventura only. 
 
 * FileVault2 not working in Sonoma with the OCLP patch!
  
@@ -34,6 +34,5 @@ Attention! If you have RX5700 (XT) graphics card, you have to use the nameframe 
 
 * Before use, you need to generate your own MLB and SMBIOS data using a Py script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist [More info](https://github.com/corpnewt/GenSMBIOS)
 
-* To try it, put the content folder 26 to the appropriate folder EFI on ESP
 * Fenvi Wi-Fi: There is no solution yet, although OCLP developers are working on it.
 * An Intel Wi-Fi can be used successfully instead (I've tested the AX210) but AirportItlwm.kext doesn't work in Tahoe and you must use itlwm.kext + Heliport app (latest versions of both).
