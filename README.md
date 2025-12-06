@@ -12,7 +12,7 @@ Attention! If you have RX5700 (XT) graphics card, you have to use the nameframe 
 * SSD: WD_BLACK SN850X 1000GB NVME M2 (PCI-e 4.0) - Windows 11
 * SSD: Samsung 860 EVO 500GB (SATA-6 AHCI) - macOS Ventura 13.7.8 (22H730)
 * WIFI / BT: BCM94360 FENVI FV-HB1200 AC PCI-E adapter
-* For full functionality FENVI FV-HB1200 on Mac OS Sonoma and Sequoya, required OCLP patch 2.4.0 or newer
+* For full functionality FENVI FV-HB1200 on Mac OS Sonoma and Sequoya, required [OCLP patch 2.4.1 or newer](https://github.com/dortania/OpenCore-Legacy-Patcher)
 * BIOS: [v20.02 2024/10/7 10.72MB](https://pg.asrock.com/mb/Intel/Z690%20PG%20Riptide/index.ru.asp#BIOS)
 * Update CPU microcode to 0x12B.
 
@@ -22,8 +22,8 @@ Attention! If you have RX5700 (XT) graphics card, you have to use the nameframe 
 
 ### Mac OS Sequoia and Ventura EFI OpenCore loader 1.0.7 and Clover 5164
 
-- The MacPro-OpenCore-1.0.7-Z690PG-R-12700kf-Tahoe.zip Partualy compatible with macOS Tahoe (Wi-Fi doesn't work)
-- The MacPro-OpenCore-1.0.7-Z690PG-R-12700kf-Sequoia.zip fully compatible with macOS Ventura, macOS Sonoma and macOS Sequoia.
+- The MacPro-OpenCore-1.0.7-Z690PG-R-12700kf-Tahoe.zip Compatible with [macOS Tahoe with OpenCore-Legacy-Tahoe_Patchset](https://github.com/chris1111/OpenCore-Legacy-Tahoe_Patchset.git)
+- The MacPro-OpenCore-1.0.7-Z690PG-R-12700kf-Sequoia.zip vanilla compatible with macOS Ventura, and macOS Sonoma and macOS Sequoia after OCLP patch.
 - The MacPro-Clover-5164-Z690PG-R-12700kf-Sequoia.zip is backward compatible with macOS Sonoma (Just move the kexts from folder 15 to folder 14).
 - The MacPro-Clover-5164-Z690PG-R-12700kf-Ventura.zip for macOS Ventura only. 
 
@@ -33,6 +33,3 @@ Attention! If you have RX5700 (XT) graphics card, you have to use the nameframe 
 * Clover has issue with update under T2 mac models
 
 * Before use, you need to generate your own MLB and SMBIOS data using a Py script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist [More info](https://github.com/corpnewt/GenSMBIOS)
-
-* Fenvi Wi-Fi: There is no solution yet, although OCLP developers are working on it.
-* An Intel Wi-Fi can be used successfully instead (I've tested the AX210) but AirportItlwm.kext doesn't work in Tahoe and you must use itlwm.kext + Heliport app (latest versions of both).
