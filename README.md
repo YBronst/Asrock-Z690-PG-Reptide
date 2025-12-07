@@ -24,7 +24,6 @@ Attention! If you have RX5700 (XT) graphics card, you have to use the nameframe 
 
 - The MacPro-OpenCore-1.0.7-Z690PG-R-12700kf-Tahoe.zip Compatible with [macOS Tahoe with OpenCore-Legacy-Tahoe_Patchset](https://github.com/chris1111/OpenCore-Legacy-Tahoe_Patchset.git)
 - The MacPro-OpenCore-1.0.7-Z690PG-R-12700kf-Sequoia.zip vanilla compatible with macOS Ventura, and macOS Sonoma and macOS Sequoia after OCLP patch.
-- The MacPro-Clover-5164-Z690PG-R-12700kf-Sequoia.zip is backward compatible with macOS Sonoma (Just move the kexts from folder 15 to folder 14).
 - The MacPro-Clover-5164-Z690PG-R-12700kf-Ventura.zip for macOS Ventura only. 
 
 * FileVault2 not working in Sonoma and Sequoia with the OCLP patch!
