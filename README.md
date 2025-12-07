@@ -5,14 +5,15 @@ Attention! If you have RX5700 (XT) graphics card, you have to use the nameframe 
 
 ## Hardware configuration:
 * CPU: i7-12700kf AlderLake
-* MB: Asrock Z690 PG Reptide [More info](https://pg.asrock.com/mb/Intel/Z690%20PG%20Riptide/index.ru.asp#Overview) 
+* MB: Asrock Z690 PG Reptide [More info](https://pg.asrock.com/mb/Intel/Z690%20PG%20Riptide/index.ru.asp#Overview). 
 * RAM: 2x32Gb DDR4 3200 Crucial Technology      
-* GPU: Radeon Sapphire Nitro+ RX5700XT 8G GDDR6 SE [More info](https://www.sapphiretech.com/ru-ru/consumer/nitro-radeon-rx-5700-xt-se-8g-gddr6)
-* SSD: WD_BLACK SN850X 1000GB NVME M2 (PCI-e 4.0) - macOS Sequoia 15.7.2 (24G325)
-* SSD: WD_BLACK SN850X 1000GB NVME M2 (PCI-e 4.0) - Windows 11
-* SSD: Samsung 860 EVO 500GB (SATA-6 AHCI) - macOS Ventura 13.7.8 (22H730)
-* WIFI / BT: BCM94360 FENVI FV-HB1200 AC PCI-E adapter
-* For full functionality FENVI FV-HB1200 on Mac OS Sonoma and Sequoya, required [OCLP patch 2.4.1 or newer](https://github.com/dortania/OpenCore-Legacy-Patcher)
+* GPU: Radeon Sapphire Nitro+ RX5700XT 8G GDDR6 SE [More info](https://www.sapphiretech.com/ru-ru/consumer/nitro-radeon-rx-5700-xt-se-8g-gddr6).
+* SSD: WD_BLACK SN850X 1000GB NVME M2 (PCI-e 4.0) - macOS Sequoia 15.7.2 (24G325).
+* SSD: WD_BLACK SN850X 1000GB NVME M2 (PCI-e 4.0) - Windows 11.
+* SSD: Samsung 860 EVO 500GB (SATA-6 AHCI) - macOS Ventura 13.7.8 (22H730).
+* WIFI / BT: BCM94360 FENVI FV-HB1200 AC PCI-E adapter.
+* For full functionality FENVI FV-HB1200 on Mac OS Sonoma and Sequoya, required [OCLP patch 2.4.1 or newer](https://github.com/dortania/OpenCore-Legacy-Patcher).
+* * For full functionality FENVI FV-HB1200 on macOS Tahoe, required [macOS Tahoe with OpenCore-Legacy-Tahoe_Patchset](https://github.com/chris1111/OpenCore-Legacy-Tahoe_Patchset.git).
 * BIOS: [v20.02 2024/10/7 10.72MB](https://pg.asrock.com/mb/Intel/Z690%20PG%20Riptide/index.ru.asp#BIOS)
 * Update CPU microcode to 0x12B.
 
@@ -22,8 +23,9 @@ Attention! If you have RX5700 (XT) graphics card, you have to use the nameframe 
 
 ### Mac OS Sequoia and Ventura EFI OpenCore loader 1.0.7 and Clover 5164
 
-- The MacPro-OpenCore-1.0.7-Z690PG-R-12700kf-Tahoe.zip required [macOS Tahoe with OpenCore-Legacy-Tahoe_Patchset](https://github.com/chris1111/OpenCore-Legacy-Tahoe_Patchset.git)
-- The MacPro-Clover-5164-Z690PG-R-12700kf-Ventura.zip for macOS Ventura only. 
+- The MacPro-OpenCore-1.0.7-Z690PG-R-12700kf-Tahoe.zip for macOS Tahoe.
+- MacPro-Clover-5164-Z690PG-R-12700kf-Sequoia.zip for macOS Sequoia.
+- The MacPro-Clover-5164-Z690PG-R-12700kf-Ventura.zip for macOS Ventura. 
 
 * FileVault2 not working in Sonoma and Sequoia with the OCLP patch!
  
