@@ -15,7 +15,7 @@ Attention! If you have RX5700 (XT) graphics card, you have to use the nameframe 
 * For full functionality FENVI FV-HB1200 on Mac OS Sonoma and Sequoya, required:
 * [OCLP patch 2.4.1 or newer](https://github.com/dortania/OpenCore-Legacy-Patcher).
 * For full functionality FENVI FV-HB1200 on macOS Tahoe, required:
-* [OpenCore-Legacy-Tahoe_Patchset](https://github.com/chris1111/OpenCore-Legacy-Tahoe_Patchset.git).
+* [Experimental Fork of OpenCore Legacy Patcher 3.0.0](https://github.com/lzhoang2801/OpenCore-Legacy-Patcher).
 * BIOS: [v20.02 2024/10/7 10.72MB](https://pg.asrock.com/mb/Intel/Z690%20PG%20Riptide/index.ru.asp#BIOS)
 * Update CPU microcode to 0x12B.
 
