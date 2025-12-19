@@ -42,11 +42,7 @@ To uninstall the OCLP application including LaunchAgent and PrivilegedHelperTool
 
 * Default
 
-### Mac OS Sequoia and Ventura EFI OpenCore loader 1.0.7 and Clover 5164
-
-- The MacPro-OpenCore-1.0.7-Z690PG-R-12700kf-Tahoe.zip for macOS Tahoe.
-- MacPro-Clover-5164-Z690PG-R-12700kf-Sequoia.zip for macOS Sequoia.
-- The MacPro-Clover-5164-Z690PG-R-12700kf-Ventura.zip for macOS Ventura. 
+### Mac OS Sequoia and Ventura EFI OpenCore loader 1.0.7 and Clover 5165
 
 * FileVault2 not working in Sonoma and Sequoia with the OCLP patch!
  
