@@ -15,7 +15,8 @@ Attention! If you have RX5700 (XT) graphics card, you have to use the nameframe 
 * For full functionality FENVI FV-HB1200 on Mac OS Sonoma and Sequoya, required:
 * [OCLP patch 2.4.1 or newer](https://github.com/dortania/OpenCore-Legacy-Patcher).
 * For full functionality FENVI FV-HB1200 on macOS Tahoe, required:
-* [OpenCore Legacy Patcher 3.0.0 Experimental Fork](https://github.com/lzhoang2801/OpenCore-Legacy-Patcher). [Download here:](https://nightly.link/lzhoang2801/OpenCore-Legacy-Patcher/workflows/build-app-wxpython/tahoe-patchset?preview)
+* [OpenCore Legacy Patcher 3.0.0 Experimental Fork](https://github.com/lzhoang2801/OpenCore-Legacy-Patcher).
+* [Download here:](https://nightly.link/lzhoang2801/OpenCore-Legacy-Patcher/workflows/build-app-wxpython/tahoe-patchset?preview)
 ## Uninstall
 
 This guide tells you different ways to uninstall OCLP and/or patches.
