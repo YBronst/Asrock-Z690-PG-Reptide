@@ -46,7 +46,7 @@ To uninstall the OCLP application including LaunchAgent and PrivilegedHelperTool
 * Default
 
 ### Download [OpenCore loader 1.0.7](https://github.com/dortania/build-repo/releases/download/OpenCorePkg-507907a/OpenCore-1.0.7-RELEASE.zip) 
-### ### Download [Clover 5165](https://github.com/YBronst/CloverBootloader/releases/tag/5165)
+### Download [Clover 5165](https://github.com/YBronst/CloverBootloader/releases/tag/5165)
 
 * FileVault2 not working in Sonoma and Sequoia with the OCLP patch!
  
