@@ -20,7 +20,7 @@ Attention! If you have RX5700 (XT) graphics card, you have to use the nameframe 
 
 ## Application issues
 * System version mismatch error when root patching
-* Use an experimental ["PurgePendingUpdate" tool](https://github.com/YBronst/Asrock-Z690-PG-Reptide/blob/main/purgePendingUpdate) 
+* Use an experimental ["PurgePendingUpdate" tool](https://github.com/YBronst/Asrock-Z690-PG-Reptide/blob/main/purgePendingUpdate.zip) 
 
 ## Uninstall
 
