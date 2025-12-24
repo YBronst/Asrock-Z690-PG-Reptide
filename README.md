@@ -51,11 +51,15 @@ To uninstall the OCLP application including LaunchAgent and PrivilegedHelperTool
 
 * Default
 
-### Download [OpenCore loader 1.0.7](https://github.com/dortania/build-repo/releases/download/OpenCorePkg-507907a/OpenCore-1.0.7-RELEASE.zip) 
-### Download [Clover 5165](https://github.com/YBronst/CloverBootloader/releases/tag/5165)
+### All archives of bootable EFI folders have already been updated to the latest versions of OpenCore and Clover but you can download them:
+* [OpenCore loader 1.0.7](https://github.com/dortania/build-repo/releases/download/OpenCorePkg-507907a/OpenCore-1.0.7-RELEASE.zip) 
+* [Clover 5165](https://github.com/YBronst/CloverBootloader/releases/tag/5165)
 
+
+## Warning
 * FileVault2 not working in Sonoma and Sequoia with the OCLP patch!
  
+## Notes
 * All mac os futures are working including DRM playback and sleep/wake S3 and FileVault2 in macOS Ventura 13.x.x versions.
 * Clover has issue with update under T2 mac models
 
