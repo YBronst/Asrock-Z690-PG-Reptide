@@ -1,10 +1,10 @@
 # Asrock-Z690-PG-Reptide-hackintosh
-# ⚠️ Disclaimer
+# 👉 Disclaimer:
 This repository is intended for personal use only and may be unstable on hardware configurations other than those listed below.
 It contains fully configured EFI OpenCore and Clover Folders.
-I assume no liability for the use of this repository. Use it at your own risk.
+I assume no liability for the use of this repository. Use it at your own risk!
 
-- ❕Attention! If you have RX5700 (XT) graphics card, you have to use the nameframe (ATI,Adder) to avoid WindowServer crashes!
+- ⚠️ Attention! If you have RX5700 (XT) graphics card, you have to use the nameframe (ATI,Adder) to avoid WindowServer crashes!
 
 ## Hardware configuration:
 * CPU: i7-12700kf AlderLake
