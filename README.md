@@ -24,20 +24,18 @@ Attention! If you have RX5700 (XT) graphics card, you have to use the nameframe 
 
 ### Uninstall
 
-This guide tells you different ways to uninstall OCLP and/or patches.
-
-### Manual methods
+This guide tells you different ways to uninstall OCLP and/or patches:
 
 Uninstalling OCLP manually is a three part process which includes the application, and the root patches. If you want to remove OCLP and patches entirely, go through all three in succession. Otherwise do the part(s) you need.
 
-### Reverting root patches
+### I. Reverting root patches
 
 Open the OCLP application and go into the Post Install Root Patch menu, choose Revert Root Patches. 
 
 *  **Supported on Monterey and later. Big Sur does not support snapshot reversion and requires a reinstall.**
 *  **Reinstall can be done without a wipe if the macOS installer version used is the same or newer.**
 
-### Uninstalling the application
+### II. Uninstalling the application
 
 To uninstall the OCLP application including LaunchAgent and PrivilegedHelperTool, download the uninstaller package from [the releases page.](https://github.com/dortania/OpenCore-Legacy-Patcher/releases)
 
