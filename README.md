@@ -16,7 +16,11 @@ Attention! If you have RX5700 (XT) graphics card, you have to use the nameframe 
 * [OCLP patch 2.4.1 or newer](https://github.com/dortania/OpenCore-Legacy-Patcher).
 * For full functionality FENVI FV-HB1200 on macOS Tahoe, required:
 * [OpenCore Legacy Patcher 3.0.0 Experimental Fork](https://github.com/YBronst/OpenCore-Legacy-Patcher/releases/tag/3.0.0).
-* Discussion of this patch [English forum](https://www.insanelymac.com/forum/topic/362042-experimental-fork-of-oclp-300-nightly-–-wi-fi-airdrop-and-applehda-fully-working-under-tahoe/) 
+* Discussion of this patch [English forum](https://www.insanelymac.com/forum/topic/362042-experimental-fork-of-oclp-300-nightly-–-wi-fi-airdrop-and-applehda-fully-working-under-tahoe/)
+
+## Application issues
+* System version mismatch error when root patching
+* Use an experimental ["PurgePendingUpdate" tool](https://github.com/YBronst/Asrock-Z690-PG-Reptide/blob/main/purgePendingUpdate) 
 
 ## Uninstall
 
