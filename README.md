@@ -56,11 +56,10 @@ To uninstall the OCLP application including LaunchAgent and PrivilegedHelperTool
 * [Clover 5165](https://github.com/YBronst/CloverBootloader/releases/tag/5165)
 
 
-## Warning
-* FileVault2 not working in Sonoma and Sequoia with the OCLP patch!
+## ❗️Warning
+* FileVault2 not working in Sonoma/Sequoia and Tahoe with the OCLP patch!
  
-## Notes
+## 📝Notes
 * All mac os futures are working including DRM playback and sleep/wake S3 and FileVault2 in macOS Ventura 13.x.x versions.
 * Clover has issue with update under T2 mac models
-
 * Before use, you need to generate your own MLB and SMBIOS data using a Py script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist [More info](https://github.com/corpnewt/GenSMBIOS)
