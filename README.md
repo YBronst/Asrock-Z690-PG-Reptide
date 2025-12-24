@@ -44,7 +44,8 @@ To uninstall the OCLP application including LaunchAgent and PrivilegedHelperTool
 
 ### Update BIOS: [21.01	2025/10/30	10.80MB](https://pg.asrock.com/mb/Intel/Z690%20PG%20Riptide/index.ru.asp#BIOS)
 
-* Update CPU microcode to 0x12B.
+* 1. Optimized system compatibility.
+* 2. Enhance platform security with Control IOMMU Pre-boot Behavior, VT-d, and the IOMMU option.
 
 ### BIOS setup: 
 
