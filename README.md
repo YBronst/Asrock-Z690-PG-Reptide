@@ -21,11 +21,11 @@ I assume no liability for the use of this repository. Use it at your own risk!
 * [OpenCore Legacy Patcher 3.0.0 Experimental](https://github.com/YBronst/OpenCore-Legacy-Patcher/releases/tag/3.0.0).
 * Discussion of this patch [English forum](https://www.insanelymac.com/forum/topic/362042-experimental-fork-of-oclp-300-nightly-–-wi-fi-airdrop-and-applehda-fully-working-under-tahoe/)
 
-### Application issues
+### Application issues:
 * System version mismatch error when root patching
 * Use an experimental ["PurgePendingUpdate" tool](https://github.com/YBronst/Asrock-Z690-PG-Reptide/blob/main/purgePendingUpdate.zip) 
 
-### Uninstall
+### Uninstall:
 
 
 * I. Reverting root patches
