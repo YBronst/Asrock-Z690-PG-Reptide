@@ -35,7 +35,7 @@ I assume no liability for the use of this repository. Use it at your own risk!
 *  **Big Sur does not support snapshot reversion and requires a reinstall.**
 *  **Reinstall can be done without a wipe if the macOS installer version used is the same or newer.**
 
-### II. Uninstalling the application
+* II. Uninstalling the application
 
 To uninstall the OCLP application including LaunchAgent and PrivilegedHelperTool, download the uninstaller package from [the releases page.](https://github.com/dortania/OpenCore-Legacy-Patcher/releases)
 
