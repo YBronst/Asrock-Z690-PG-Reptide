@@ -6,7 +6,7 @@ I assume no liability for the use of this repository. Use it at your own risk!
 
 - ⚠️ Attention! If you have RX5700 (XT) graphics card, you have to use the nameframe (ATI,Adder) to avoid WindowServer crashes!
 
-## Hardware configuration:
+## 🛠️ Hardware configuration:
 * CPU: i7-12700kf AlderLake
 * MB: Asrock Z690 PG Reptide [More info](https://pg.asrock.com/mb/Intel/Z690%20PG%20Riptide/index.ru.asp#Overview). 
 * RAM: 2x32Gb DDR4 3200 Crucial Technology      
