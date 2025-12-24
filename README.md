@@ -28,16 +28,16 @@ I assume no liability for the use of this repository. Use it at your own risk!
 ### Uninstall:
 
 
-* I. Reverting root patches
+* I. Reverting root patches:
 
 * Open the OCLP application and go into the Post Install Root Patch menu, choose Revert Root Patches. 
 *  **Supported on Monterey and later**.
 *  **Big Sur does not support snapshot reversion and requires a reinstall.**
 *  **Reinstall can be done without a wipe if the macOS installer version used is the same or newer.**
 
-* II. Uninstalling the application
+* II. Uninstalling the application:
 
-To uninstall the OCLP application including LaunchAgent and PrivilegedHelperTool, download the uninstaller package from [the releases page.](https://github.com/dortania/OpenCore-Legacy-Patcher/releases)
+* To uninstall the OCLP application including LaunchAgent and PrivilegedHelperTool, download the uninstaller package from [the releases page.](https://github.com/dortania/OpenCore-Legacy-Patcher/releases)
 
 ### Update BIOS: [21.01	2025/10/30	10.80MB](https://pg.asrock.com/mb/Intel/Z690%20PG%20Riptide/index.ru.asp#BIOS)
 
