@@ -19,8 +19,8 @@ I assume no liability for the use of this repository. Use it at your own risk!
 * [OCLP patch 2.4.1 or newer](https://github.com/dortania/OpenCore-Legacy-Patcher).
 * For full functionality FENVI FV-HB1200 on macOS Tahoe, required:
 * OpenCore Legacy Patcher 3.0.0 Experimental
-* [View on Github](https://github.com/lzhoang2801/OpenCore-Legacy-Patcher)
-* [Download here:](https://nightly.link/lzhoang2801/OpenCore-Legacy-Patcher/workflows/build-app-wxpython/tahoe-patchset?preview)
+* [View on Github](https://github.com/YBronst/OpenCore-Legacy-Patcher)
+* [Download here:](https://nightly.link/YBronst/OpenCore-Legacy-Patcher/workflows/build-app-wxpython/tahoe-patchset?preview)
 * Discussion of this patch [English forum](https://www.insanelymac.com/forum/topic/362042-experimental-fork-of-oclp-300-nightly-–-wi-fi-airdrop-and-applehda-fully-working-under-tahoe/)
 
 ### Application issues:
