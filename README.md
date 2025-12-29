@@ -23,12 +23,19 @@ I assume no liability for the use of this repository. Use it at your own risk!
 * [Download here:](https://github.com/YBronst/OpenCore-Legacy-Patcher/releases)
 * Discussion of this patch [English forum](https://www.insanelymac.com/forum/topic/362042-experimental-fork-of-oclp-300-nightly-–-wi-fi-airdrop-and-applehda-fully-working-under-tahoe/)
 
+## ✅ Functional Features
+
+- Full graphics acceleration (RX 5700 XT)
+- AirDrop, Handoff, Universal Clipboard
+- Wi-Fi + Bluetooth (Broadcom FENVI FV-HB1200)
+- App Store, iMessage, FaceTime
+- Ethernet working
+
 ### Application issues:
 * System version mismatch error when root patching
 * Use an experimental ["PurgePendingUpdate" tool](https://github.com/YBronst/Asrock-Z690-PG-Reptide/blob/main/purgePendingUpdate.zip) 
 
 ### Uninstall:
-
 
 * I. Reverting root patches:
 
