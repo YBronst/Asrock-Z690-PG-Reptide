@@ -22,6 +22,7 @@ I assume no liability for the use of this repository. Use it at your own risk!
 * [OpenLegacyPatrcherUninstall](https://srv100472.seohost.com.pl/macstormserver/OpenCore-Patcher-Uninstaller.pkg.zip)
   
 ## ✅ Functional Features
+<img width="320" height="240" alt="OCLP+WIFI" src="https://github.com/user-attachments/assets/0a577e2a-203e-491c-a8fa-f7c378ad3716" />
 
 - Full graphics acceleration (RX 5700 XT)
 - AirDrop, Handoff, Universal Clipboard
