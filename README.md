@@ -56,8 +56,8 @@ I assume no liability for the use of this repository. Use it at your own risk!
 * Default
 
 ### All archives of bootable EFI folders have already been updated to the latest versions of OpenCore and Clover but you can download them:
-* [OpenCore loader 1.0.7](https://github.com/dortania/build-repo/releases/download/OpenCorePkg-507907a/OpenCore-1.0.7-RELEASE.zip) 
-* [Clover 5167](https://github.com/YBronst/CloverBootloader/releases/tag/5167)
+* [⚛️OpenCore loader 1.0.7](https://github.com/dortania/build-repo/releases/download/OpenCorePkg-507907a/OpenCore-1.0.7-RELEASE.zip) 
+* [🍀Clover revision: 5168](https://github.com/YBronst/CloverBootloader/releases/tag/5168)
 
 
 ## ❗️Warning:
