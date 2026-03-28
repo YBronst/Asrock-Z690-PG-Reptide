@@ -21,7 +21,6 @@ I assume no liability for the use of this repository. Use it at your own risk!
 * [OCLP-Plus 3.1.8 (Tahoe Patch Set)](https://github.com/YBronst/OCLP-Plus/releases)
   
 ## ✅ Functional Features
-<img width="320" height="240" alt="OCLP+WIFI" src="https://github.com/user-attachments/assets/0a577e2a-203e-491c-a8fa-f7c378ad3716" />
 
 - Full graphics acceleration (RX 5700 XT)
 - AirDrop, Handoff, Universal Clipboard
