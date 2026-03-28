@@ -1,4 +1,9 @@
+<div align="center">
+<img width="256" alt="Снимок экрана 2026-03-29 в 01 04 48" src="https://github.com/user-attachments/assets/362c57fa-40b6-4a5a-ab26-eec0cf93222b" />
+
 # Asrock-Z690-PG-Reptide-hackintosh
+</div>
+
 # 👉 Disclaimer:
 This repository is intended for personal use only and may be unstable on hardware configurations other than those listed below.
 It contains fully configured EFI OpenCore and Clover Folders.
