@@ -48,9 +48,9 @@ I assume no liability for the use of this repository. Use it at your own risk!
 
 * II. Uninstalling the application:
 
-* To uninstall the OCLP application including LaunchAgent and PrivilegedHelperTool, download the uninstaller package from [the releases page.](https://github.com/dortania/OpenCore-Legacy-Patcher/releases)
+* To uninstall the OCLP application including LaunchAgent and PrivilegedHelperTool, download the uninstaller package from [`the releases page`](https://github.com/dortania/OpenCore-Legacy-Patcher/releases)
 
-### Update BIOS: [`21.01 2025/10/30	10.80MB`](https://pg.asrock.com/mb/Intel/Z690%20PG%20Riptide/index.ru.asp#BIOS)
+### Update BIOS: [`21.01 2025/10/30 10.80MB`](https://pg.asrock.com/mb/Intel/Z690%20PG%20Riptide/index.ru.asp#BIOS)
 
 * 1. Optimized system compatibility.
 * 2. Enhance platform security with Control IOMMU Pre-boot Behavior, VT-d, and the IOMMU option.
