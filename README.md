@@ -23,7 +23,7 @@ I assume no liability for the use of this repository. Use it at your own risk!
 * For full functionality FENVI FV-HB1200 on Mac OS Sonoma and Sequoya, required:
 * [`OCLP patch 2.4.1 or newer`](https://github.com/dortania/OpenCore-Legacy-Patcher).
 * For full functionality FENVI FV-HB1200 on macOS Tahoe, required:
-* [`OCLP-Plus 3.1.8 (Tahoe Patch Set)`](https://github.com/YBronst/OCLP-Plus/releases)
+* [`OCLP-Plus 3.2.0 (Tahoe Patch Set)`](https://github.com/YBronst/OCLP-Plus/releases)
   
 ## ✅ Functional Features
 
